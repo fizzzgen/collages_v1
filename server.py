@@ -5,7 +5,7 @@ from flask import send_file
 from flask import request
 from flask import Flask
 
-from search import create_collage
+from collage import create_collage
 from search import ImageSearch
 
 
